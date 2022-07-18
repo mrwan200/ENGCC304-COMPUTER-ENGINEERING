@@ -3,8 +3,7 @@
 
 int main() {
     char employee_id[10] = "";
-    int hour            = 0 ;
-    int ammout          = 0 ;
+    int hour, ammout    = 0 ;
     float result        = 0 ; 
 
     while(1){
