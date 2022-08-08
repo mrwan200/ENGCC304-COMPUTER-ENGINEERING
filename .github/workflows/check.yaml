@@ -1,0 +1,8 @@
+name: "Lab verify"
+on: [push]
+jobs:
+  HelloWorld:
+    runs-on: ubuntu-latest
+    - uses: actions/checkout@v2
+    - name: "case-1"
+      run: make && make check
