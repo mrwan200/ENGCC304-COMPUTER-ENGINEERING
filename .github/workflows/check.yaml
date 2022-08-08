@@ -1,7 +1,7 @@
 name: "Lab verify"
 on: [push]
 jobs:
-  HelloWorld:
+  hello-world:
     runs-on: ubuntu-latest
     - uses: actions/checkout@v2
     - name: "case-1"
