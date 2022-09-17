@@ -11,6 +11,12 @@ with open(os.path.join(PATH, "case.json"), "r") as f:
     data_test = json.load(f)
 
 def main(args):
+    """
+        Test case tool
+        Code by: M-307
+
+        Usage: python main.py -c <CASE>
+    """
     if not args.case in data_test:
         print("Not found test case. Please check test case in \"case.json\"")
         exit(1)
