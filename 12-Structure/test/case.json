@@ -1,0 +1,42 @@
+{
+    "1": [{
+        "name": "Yorn",
+        "salary": 15000,
+        "duration": 4
+    },
+        {
+        "name": "Van",
+        "salary": 14550,
+        "duration": 2
+    },
+        {
+        "name": "Thane",
+        "salary": 22500,
+        "duration": 8
+    }],
+    "2": [{
+        "name": "Spiderman",
+        "salary": 7000,
+        "duration": 2
+    },
+        {
+        "name": "Thor",
+        "salary": 9000,
+        "duration": 4
+    },
+        {
+        "name": "Loki",
+        "salary": 12500,
+        "duration": 4
+    },
+    {
+        "name": "Batman",
+        "salary": 99999,
+        "duration": 13
+    },
+    {
+        "name": "Ghost Rider",
+        "salary": 5000,
+        "duration": 9
+    }]
+}
