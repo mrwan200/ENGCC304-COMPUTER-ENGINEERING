@@ -18,9 +18,9 @@ This is subject ENGCC304 of Rajamangala University Of Technology Lanna Chiang Ma
 - [10] [String variable](./10-String/)
 - [11] [Function](./11-Function/)
 - [12] [Structure](./12-Structure/)
-- [13] -
-- [14] -
-- [15] -
-- [16] -
+- [13] [Pointer](./13-Pointer/)
+- [14] [Max and min](./14-Max-and-Min/)
+- [15] [Files](./15-File/)
+- [16] [Technical find array](./16-Technical-find-array/)
 
 ![อะไร๊?](https://c.tenor.com/MnkpnVCLcb0AAAAC/keqing-dance.gif)
