@@ -1,0 +1,38 @@
+{
+    "1": [{
+        "name": "Omar",
+        "salary": 12750
+    },
+        {
+        "name": "Alice",
+        "salary": 15900
+    },
+        {
+        "name": "Max",
+        "salary": 19860
+    },
+    {
+        "name": "-1",
+        "salary": -1
+    }],
+    "2": [{
+        "name": "John",
+        "salary": 15780
+    },
+        {
+        "name": "Oven",
+        "salary": 16890
+    },
+        {
+        "name": "May",
+        "salary": 17870
+    },
+    {
+        "name": "Bill",
+        "salary": 22100
+    },
+    {
+        "name": "-1",
+        "salary": -1
+    }]
+}
